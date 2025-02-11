@@ -10,6 +10,7 @@ Meu nome é Davi e curso um técnico em Desenvolvimento de Sistemas na institui�
 - 📫 Você pode se comunicar comigo através do meu Instagram ou do meu LinkedIn, disponibilizados abaixo.
     - [Instagram](https://www.instagram.com/cl.davii/)
     - [LinkedIn](https://www.linkedin.com/in/cl-davii/)
+    - Discord: @cl_davii
 - ⚡ Fato engraçado: Aprendi Java como primeira linguagem de programação, antes mesmo do Portugol.
 
 <footer align="center">
