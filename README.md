@@ -8,8 +8,7 @@ Meu nome é Davi e curso um técnico em Desenvolvimento de Sistemas na institui�
 - 🌱 Estudo a linguagem de programação Java e seus conceitos principais, como Padrões de Projetos, Estrutura de Dados e Programação Orientada a Objetos.
 - 👯 Procuro colaborar em projetos de outras pessoas que estudam e trabalham em áreas baseadas a qual eu estudo. Desejo ter noção do que se está passando no código das outras pessoas e desenvolver minha lógica de programação.
 - 📫 Você pode se comunicar comigo através do meu Instagram ou do meu LinkedIn, disponibilizados abaixo.
-    - [Instagram](https://www.instagram.com/cl.davii/)
-    - [LinkedIn](https://www.linkedin.com/in/cl-davii/)
+    - [LinkedIn](https://www.linkedin.com/in/cl-davii/) - Desativado temporariamente por motivos de Spam(Não sei o que houve)
     - Discord: @cl_davii
 - ⚡ Fato engraçado: Aprendi Java como primeira linguagem de programação, antes mesmo do Portugol.
 
